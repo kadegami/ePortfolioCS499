@@ -24,3 +24,11 @@ Here, I showcase three key artifacts that demonstrate my skills across major com
 - Implements RESTful APIs, schema modeling, and CRUD operations.
 
 [View Repository →](https://github.com/kadegami/CS-465)
+
+## 🎥 Code Review Video
+
+Here is my CS-499 Code Review Video for the capstone project:
+https://www.youtube.com/watch?v=AKJuHGlMdjM
+
+
+
