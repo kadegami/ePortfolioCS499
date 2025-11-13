@@ -9,7 +9,7 @@ Here, I showcase three key artifacts that demonstrate my skills across major com
 - Developed an interactive 3D desk environment using C++ and OpenGL.
 - Enhanced structure through modular scene and shader management.
 
-[View Repository →](https://github.com/kadegami/CS-330)
+[View Repository →] (https://github.com/kadegami/CS-330)
 
 ## 🟢 Algorithms & Data Structures
 **CS-350: GPIO Morse Code Embedded System**
