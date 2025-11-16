@@ -67,7 +67,7 @@ Enhanced version with improved algorithm logic and comments
 Enhancement narrative document
 
 🔗 Repository:
-https://github.com/kadegami/CS350
+https://github.com/kadegami/CS-350
 
 3️⃣ CS-465 – Databases (Enhancement 3)
 
@@ -80,7 +80,7 @@ Enhanced features and improved database design
 Enhancement narrative document
 
 🔗 Repository:
-https://github.com/kadegami/CS465
+https://github.com/kadegami/CS-465
 
 
 
