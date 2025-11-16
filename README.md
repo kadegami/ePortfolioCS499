@@ -30,5 +30,57 @@ Here, I showcase three key artifacts that demonstrate my skills across major com
 Here is my CS-499 Code Review Video for the capstone project:
 https://www.youtube.com/watch?v=AKJuHGlMdjM
 
+🔗 Enhanced Artifacts (Original + Enhanced Files)
+
+Below are the original and enhanced versions of my capstone artifacts.
+Each repository includes:
+
+A folder named CS499_Original_Project_Files
+
+A folder named CS499_Enhancement1, CS499_Enhancement2, or CS499_Enhancement3
+
+A written narrative (Word document)
+
+All required source code
+
+1️⃣ CS-330 – Software Design & Engineering (Enhancement 1)
+
+Interactive OpenGL 3D Scene
+
+Original project files folder
+
+Enhanced project files folder
+
+Enhancement narrative document
+
+🔗 Repository:
+https://github.com/kadegami/CS330
+
+2️⃣ CS-350 – Algorithms & Data Structures (Enhancement 2)
+
+Timer + Interrupt Morse Code State Machine
+
+Original embedded system files
+
+Enhanced version with improved algorithm logic and comments
+
+Enhancement narrative document
+
+🔗 Repository:
+https://github.com/kadegami/CS350
+
+3️⃣ CS-465 – Databases (Enhancement 3)
+
+Travlr Getaways Full Stack Application
+
+Original MongoDB/Express/Node/Angular project
+
+Enhanced features and improved database design
+
+Enhancement narrative document
+
+🔗 Repository:
+https://github.com/kadegami/CS465
+
 
 
