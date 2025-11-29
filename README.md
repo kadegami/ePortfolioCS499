@@ -30,7 +30,7 @@ Here, I showcase three key artifacts that demonstrate my skills across major com
 Here is my CS-499 Code Review Video for the capstone project:
 https://www.youtube.com/watch?v=AKJuHGlMdjM
 
-🔗🎯 Enhanced Artifacts (Original + Enhanced Files)
+**🔗🎯 Enhanced Artifacts (Original + Enhanced Files)**
 
 Below are the original and enhanced versions of my capstone artifacts.
 Each repository includes:
