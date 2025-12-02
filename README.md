@@ -1,6 +1,13 @@
 # ePortfolioCS499
 # Karina Washington – Computer Science ePortfolio
 
+# Professional Self-Assessment
+
+
+---
+
+# Karina Washington – Computer Science ePortfolio
+
 Welcome to my ePortfolio for SNHU’s CS-499 Capstone Project.  
 Here, I showcase three key artifacts that demonstrate my skills across major computer science domains.
 
